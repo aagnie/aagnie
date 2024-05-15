@@ -1,16 +1,25 @@
 [
   {
-    "name": "Automation Highway",
+    "name": "Azure pipeline",
     "ring": "Adopt",
-    "quadrant": "Techniques",
+    "quadrant": "Tools",
     "isNew": "TRUE",
-    "description": "<p>Although <strong>path-to-production mapping</strong> has been a near-universal practice at Thoughtworks since codifying <em><a href=\"https://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912\">Continuous Delivery</a></em>, we often come across organizations unfamiliar with the practice. The activity is most often done in a workshop with a cross-functional group of people —  that includes everyone involved in designing, developing, releasing and operating the software — around a shared whiteboard (or virtual equivalent). First, the steps in the process are listed in order, from the developer workstation all the way to production. Then, a facilitated session is used to capture further information and pain points. The most common technique we see is based on <a href=\"https://en.wikipedia.org/wiki/Value-stream_mapping\">value-stream mapping</a>, although plenty of <a href=\"https://caroli.org/en/path-to-production/\">process map</a> variants are equally valuable. The activity is often eye-opening for many of the participants, as they identify delays, risks and inconsistencies and continue to use the visual representation for the continuous improvement of the build and deploy process. We consider this technique so foundational that we were surprised to discover we hadn't blipped it before.</p>"
+    "description": "<p>Bankdata CI/CD pipeline are using Azure see backstage at .....</p>"
   },
   {
-    "name": "Java 29",
+    "name": "Quarkus",
     "ring": "Trial",
-    "quadrant": "Techniques",
+    "quadrant": "Languages & Frameworks",
     "isNew": "FALSE",
-    "description": "<p><a href=\"/radar/tools/visual-regression-testing-tools\">Visual regression testing</a> is a useful and powerful tool to have in your toolbox, but it has a significant cost given it's done for the entire page. With the rise of component-based frameworks such as <a href=\"/radar/languages-and-frameworks/react-js\">React</a> and <a href=\"/radar/languages-and-frameworks/vue-js\">Vue</a>, we've also seen the rise of <strong>component visual regression testing</strong>. This technique strikes a good balance between value and cost to ensure that no undesired visuals have been added to the application. In our experience, component visual regression testing presents fewer false positives and promotes a good architectural style. By using it with tools such as <a href=\"https://github.com/vitejs/vite\">Vite</a> and the webpack feature <a href=\"https://webpack.js.org/guides/hot-module-replacement/\">Hot Module Replacement (HMR)</a>, it could be seen as a paradigm shift for applying test-driven development to front-end development.</p>"
+    "description": "<p>A Kubernetes-native Java framework</p>"
+  },
+  {
+    "name": "Helidon",
+    "ring": "Hold",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "<p>A cloud-native set of Java libraries </p>"
   }
+  
+  
 ]
