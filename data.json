@@ -68,9 +68,82 @@
     "quadrant": "Tools",
     "isNew": "FALSE",
     "description": "<p>Distributed version source control </p>"
+  },
+  {
+    "name": "Openshift",
+    "ring": "Global",
+    "quadrant": "Platform",
+    "isNew": "FALSE",
+    "description": "<p>Containerization platform </p>"
+  },
+  {
+    "name": "Docker",
+    "ring": "Global",
+    "quadrant": "Platform",
+    "isNew": "FALSE",
+    "description": "<p>Container image framework </p>"
+  },
+  {
+    "name": "Helm",
+    "ring": "Global",
+    "quadrant": "Tools",
+    "isNew": "FALSE",
+    "description": "<p>Package manager for Kubernetes </p>"
+  },
+  {
+    "name": "Splunk",
+    "ring": "Gloabl",
+    "quadrant": "Tools",
+    "isNew": "FALSE",
+    "description": "<p>Tool for analyzing (log) data </p>"
+  },
+  {
+    "name": "Grafana",
+    "ring": "Global",
+    "quadrant": "Tools",
+    "isNew": "FALSE",
+    "description": "<p>Multi-platform for interactive visualization </p>"
+  },
+  {
+    "name": "MS SQL",
+    "ring": "Global",
+    "quadrant": "Tools",
+    "isNew": "FALSE",
+    "description": "<p>A Relation Database Management System </p>"
+  },
+  {
+    "name": "IBM DB2",
+    "ring": "Global",
+    "quadrant": "Tools",
+    "isNew": "FALSE",
+    "description": "<p>A Relation Database Management System </p>"
+  },
+  {
+    "name": "IBM MQ",
+    "ring": "Global",
+    "quadrant": "Tools",
+    "isNew": "FALSE",
+    "description": "<p>Message-oriented middleware </p>"
+  },
+  {
+    "name": "REDIS Cache",
+    "ring": "Global",
+    "quadrant": "Tools",
+    "isNew": "FALSE",
+    "description": "<p>Caching service to enhance performance </p>"
+  },
+  {
+    "name": "IBM BPM",
+    "ring": "Platform",
+    "quadrant": "Tools",
+    "isNew": "FALSE",
+    "description": "<p>Business Process Management platform </p>"
+  },
+  {
+    "name": "Spring Boot",
+    "ring": "Global",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "<p>Java framework for micro services </p>"
   }
-
-
-
-
 ]
