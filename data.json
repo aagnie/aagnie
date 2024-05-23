@@ -46,7 +46,7 @@
     "ring": "Adopt",
     "quadrant": "Tools",
     "isNew": "FALSE",
-    "description": "<p>Inspection tool for code quality </p>"
+    "description": "<p>Inspection tool for code quality.</p>"
   },
   {
     "name": "Artifactory",
