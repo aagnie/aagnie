@@ -35,14 +35,14 @@
     "description": "<p>A build tool for applications </p>"
   },
   {
-    "name": "hest",
+    "name": "Jenkins",
     "ring": "Hold",
     "quadrant": "Tools",
     "isNew": "FALSE",
     "description": "<p>CI/CD automation tool </p>"
   },
   {
-    "name": "Jenkins",
+    "name": "hest",
     "ring": "Hold",
     "quadrant": "Tools",
     "isNew": "FALSE",
