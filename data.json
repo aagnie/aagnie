@@ -92,7 +92,7 @@
   },
   {
     "name": "Splunk",
-    "ring": "Gloabl",
+    "ring": "Global",
     "quadrant": "Tools",
     "isNew": "FALSE",
     "description": "<p>Tool for analyzing (log) data </p>"
