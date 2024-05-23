@@ -42,13 +42,6 @@
     "description": "<p>CI/CD automation tool </p>"
   },
   {
-    "name": "hest",
-    "ring": "Hold",
-    "quadrant": "Tools",
-    "isNew": "FALSE",
-    "description": "<p>CI/CD automation tool </p>"
-  },
-  {
     "name": "SonarQube",
     "ring": "Global",
     "quadrant": "Tools",
