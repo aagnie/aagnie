@@ -7,6 +7,13 @@
     "description": "<p>Bankdata CI/CD pipeline are using Azure see backstage at .....</p>"
   },
   {
+    "name": "SonarQube",
+    "ring": "Global",
+    "quadrant": "Tools",
+    "isNew": "FALSE",
+    "description": "<p>Inspection tool for code quality </p>"
+  },
+  {
     "name": "Quarkus",
     "ring": "Trial",
     "quadrant": "Languages & Frameworks",
