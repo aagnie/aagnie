@@ -72,14 +72,14 @@
   {
     "name": "Openshift",
     "ring": "Global",
-    "quadrant": "Platform",
+    "quadrant": "Platforms",
     "isNew": "FALSE",
-    "description": "<p>Containerization platform </p>"
+    "description": "<p>Containerization Platforms </p>"
   },
   {
     "name": "Docker",
     "ring": "Global",
-    "quadrant": "Platform",
+    "quadrant": "Platforms",
     "isNew": "FALSE",
     "description": "<p>Container image framework </p>"
   },
@@ -102,7 +102,7 @@
     "ring": "Global",
     "quadrant": "Tools",
     "isNew": "FALSE",
-    "description": "<p>Multi-platform for interactive visualization </p>"
+    "description": "<p>Multi-Platforms for interactive visualization </p>"
   },
   {
     "name": "MS SQL",
@@ -134,10 +134,10 @@
   },
   {
     "name": "IBM BPM",
-    "ring": "Platform",
+    "ring": "Platforms",
     "quadrant": "Tools",
     "isNew": "FALSE",
-    "description": "<p>Business Process Management platform </p>"
+    "description": "<p>Business Process Management Platforms </p>"
   },
   {
     "name": "Spring Boot",
