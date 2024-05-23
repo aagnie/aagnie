@@ -19,7 +19,58 @@
     "quadrant": "Languages & Frameworks",
     "isNew": "FALSE",
     "description": "<p>A cloud-native set of Java libraries </p>"
+  },
+  {
+    "name": "Angular",
+    "ring": "Global",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "<p>A web development framework </p>"
+  },
+  {
+    "name": "Gradle",
+    "ring": "Global",
+    "quadrant": "Tools",
+    "isNew": "FALSE",
+    "description": "<p>A build tool for applications </p>"
+  },
+  {
+    "name": "Jenkins",
+    "ring": "Hold",
+    "quadrant": "Tools",
+    "isNew": "FALSE",
+    "description": "<p>CI/CD automation tool </p>"
+  },
+  {
+    "name": "SonarQube",
+    "ring": "Global",
+    "quadrant": "Tools",
+    "isNew": "FALSE",
+    "description": "<p>Inspection tool for code quality </p>"
+  },
+  {
+    "name": "Artifactory",
+    "ring": "Global",
+    "quadrant": "Tools",
+    "isNew": "FALSE",
+    "description": "<p>An artifact repository manager </p>"
+  },
+  {
+    "name": "Bitbucket",
+    "ring": "Hold",
+    "quadrant": "Tools",
+    "isNew": "FALSE",
+    "description": "<p>Distributed version source control </p>"
+  },
+  {
+    "name": "Github",
+    "ring": "Adopt",
+    "quadrant": "Tools",
+    "isNew": "FALSE",
+    "description": "<p>Distributed version source control </p>"
   }
-  
-  
+
+
+
+
 ]
